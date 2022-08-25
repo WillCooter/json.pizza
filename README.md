@@ -1,4 +1,4 @@
-For of [@Kritzware](https://github.com/kritzware)'s [json.pizza](https://github.com/kritzware/json.pizza).
+Fork of [@Kritzware](https://github.com/kritzware)'s [json.pizza](https://github.com/kritzware/json.pizza).
 ## Build Setup
 
 ``` bash
